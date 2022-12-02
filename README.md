@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning web programming and dbms.
 - 🌱 I'm proficient about the fundementals of python .
-- 💞️ I’m looking to collaborate on game development.
+- 💞️ I’m looking to collaborate on web development.
 - 📫 You can contact me through pasindu.mahima@gmail.com
 
 <!---
