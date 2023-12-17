@@ -10,3 +10,6 @@
 drgnhunter/drgnhunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+AI Research Assistance - 
+![2](https://github.com/drgnhunter/drgnhunter/assets/112725685/c707dfb6-a585-400b-8b89-f5e859e9728b)
+![1](https://github.com/drgnhunter/drgnhunter/assets/112725685/5a2d5e56-96e1-4524-a80f-6f874880bed9)
